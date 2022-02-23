@@ -10,7 +10,7 @@ Snake Clone written in Java during my Computer Sciene lesson in November 2019: <
 [Link coming soon]
 
 2D Platformer in Unity/C# also as a school project in November 2020: <br>
-**Link**
+[This way!](https://github.com/Feko-Karels/Platfomer)
 
 Visualization of diffent sorting algorithms such as QuickSort, MergeSort or HeapSort with speed and working method. <br>
 Developt in Java Script with Three.js during leisure in Dezember 2020: <br>
