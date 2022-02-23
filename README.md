@@ -17,8 +17,7 @@ Snake Clone written in Java during my Computer Sciene lesson in November 2019:
 
 Visualization of diffent sorting algorithms such as QuickSort, MergeSort or HeapSort with speed and working method. 
 Developt in Java Script with Three.js during leisure in Dezember 2020:
-
-**Link**
+[View here!](https://github.com/Feko-Karels/Sorting-Algorithms)
 
 Stable Marriage Problem and the Gale-Shapley algorithm visualised in an web application using React.
 Also written during in my leisure in March 2021:
