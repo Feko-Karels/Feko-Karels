@@ -6,9 +6,6 @@
 Tetris Clone developt with Object Pascal during my Software development school internship in October 2018: <br>
 [Found here!](https://github.com/Feko-Karels/Tetris)
 
-Snake Clone written in Java during my Computer Sciene lesson in November 2019: <br>
-[Link coming soon]
-
 2D Platformer in Unity/C# also as a school project in November 2020: <br>
 [This way!](https://github.com/Feko-Karels/Platfomer)
 
