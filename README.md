@@ -1,6 +1,6 @@
 ### Hello everyone!
 
-**I´m 20 years old and currently enrolled in Bachelor Computer Sciene at RWTH Aachen University, here are some of my projects:**
+**I´m 21 years old and currently enrolled in Bachelor Computer Sciene at RWTH Aachen University, here are some of my projects:**
 
 Visualization of diffent sorting algorithms such as QuickSort, MergeSort or HeapSort with speed and working method. <br>
 Developt in Java Script with Three.js during leisure in Dezember 2020: <br>
